@@ -25,6 +25,6 @@ places:
       - wordpress
       - php
       - ansible
-  
-  
- 
+#  Dictionaries and lists can also be represented in an abbreviated form if you really want to:
+anish: {name: Anish Mangal, job: Ed-Tech anarchist, skill: Expert}
+places: ['Leh', 'Kargil', 'Drass', 'Spiti', 'Keylong']
