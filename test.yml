@@ -1,1 +1,30 @@
 # This is my first Play book
+# All members of a list are lines beginning at the same indentation level starting with a "- " (a dash and a space):
+# A list of places
+places:
+    - Leh
+    - Kargil
+    - Spiti
+    - Keylong
+  
+  
+# A dictionary is represented in a simple key: value form (the colon must be followed by a space):
+# Employee records
+-  anish:
+    name: Anish Mangal
+    job: Ed-Tech anarchist
+    skills:
+      - python
+      - linux
+      - ansible
+-  abhishek:
+    name: Abhishek Pratap Singh
+    job: Developer
+    skills:
+      - linux
+      - wordpress
+      - php
+      - ansible
+  
+  
+ 
